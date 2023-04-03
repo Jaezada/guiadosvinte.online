@@ -17,7 +17,7 @@ function show(){
         const hiddenItems = document.querySelectorAll('.hidden');
         hiddenItems[0].classList.remove('hidden')
         hiddenItems[1].classList.remove('hidden')
-    }, 1380000)
+    }, 1200000)
 }
 
 function start(){
